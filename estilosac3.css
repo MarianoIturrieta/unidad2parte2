@@ -1,0 +1,37 @@
+.contA{
+    color: white;
+    width: auto;
+    height: auto;
+    border: 3px solid;
+    border-color: black;
+    display: flex;
+    justify-content: space-between;
+}
+
+
+.caja1{
+    background-color: red;
+    height: 200px;
+    width: 200px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.caja2{
+    background-color:blue;
+    height: 200px;
+    width: 200px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.caja3{
+    background-color: green;
+    height: 200px;
+    width: 200px;  
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
